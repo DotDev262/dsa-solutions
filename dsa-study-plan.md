@@ -246,6 +246,14 @@ Day 7:   Rest OR light revision
 
 ---
 
+## Mark for Review
+
+Mark problems you want to revisit later. Format: `Week/Day - Problem Name`
+
+- [ ]
+
+---
+
 ## Progress Tracking
 
 | Week | Topic | Problems Solved | Completion |
